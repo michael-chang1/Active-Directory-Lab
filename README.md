@@ -1,0 +1,1 @@
+Here is the documentation of my journey on setting up and practicing on an Active Directory virtual lab. Using Oracle VirtualBox, I created a Domain Controller with Windows Server 2025 and 2 client virtual machines with Windows 11.
